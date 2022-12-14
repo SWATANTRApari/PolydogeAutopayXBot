@@ -1,6 +1,6 @@
 module.exports = {
   token:'5858144338:AAGWAddszdxIbxwPeO0G5EKazKDz9ssbq28', // token from @BotFather
-  mongoLink: 'mongodb+srv://tnvillanyt:suriyaskp@cluster0.plrmq.mongodb.net/myFirstDatabase?retryWrites=true&w=majority', // mongo-link from cloud.mongodb.com
+  mongoLink: 'mongodb+srv://swantara:LiYZzlUgu05CL4uM@cluster0.sk1edhc.mongodb.net/?retryWrites=true&w=majority', // mongo-link from cloud.mongodb.com
   admin: '1844321348', // admin`s id for sending him/her errors,
   currency:'Polydoge Coin',
   min_wd:500000,// minimum withdrawal amount
